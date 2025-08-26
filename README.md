@@ -26,6 +26,13 @@ Project languages:
 * Integrated Development Environment (IDE): VSCode.
 * Web Browser: Google Chrome, Microsoft Edge, Firefox, Safari.
 
+## ⬇️ Installation
+### Make a directory
+```
+mkdir img_segmentation_app
+cd img_segmentation_app
+```
+
 ## 🥼 Author(s) / Contributor(s)
 * Wicaksono Hanif Supriyanto
 
