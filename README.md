@@ -45,6 +45,7 @@ venv\Scripts\activate
 ```
 pip install --upgrade typing-extensions
 ```
+---
 for CUDA compute platform:
 ```
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
@@ -53,6 +54,7 @@ for CPU only:
 ```
 pip3 install torch torchvision
 ```
+---
 ```
 pip install git+https://github.com/facebookresearch/segment-anything.git
 ```
