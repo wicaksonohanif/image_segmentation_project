@@ -30,7 +30,46 @@ Project languages:
 ### Make a directory
 ```
 mkdir img_segmentation_app
+```
+```
 cd img_segmentation_app
+```
+### Create and activate environment
+```
+python -m venv venv
+```
+```
+venv\Scripts\activate 
+```
+### Install dependencies
+```
+pip install --upgrade typing-extensions
+```
+for CUDA compute platform:
+```
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+```
+for CPU only:
+```
+pip3 install torch torchvision
+```
+```
+pip install git+https://github.com/facebookresearch/segment-anything.git
+```
+```
+pip install streamlit==1.32.2 streamlit-drawable-canvas opencv-python pillow numpy matplotlib pycocotools onnxruntime onnx 
+```
+### Download model 
+```
+wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth -O sam_vit_b.pth
+```
+### Clone Repository
+```
+git clone https://github.com/wicaksonohanif/image_segmentation_project.git
+```
+### Run App.
+```
+streamlit run app4.py
 ```
 
 ## 🥼 Author(s) / Contributor(s)
