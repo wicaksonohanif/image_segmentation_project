@@ -23,7 +23,8 @@ See Project [Here](https://github.com/wicaksonohanif/weather_type_classification
 
 ## 🖥️ Requirements
 * Operating System (OS): Windows 10, Mac, Linux.
-* Interactive Notebook: Jupyter Notebook, VSCode.
+* `python>=3.8`, `pytorch>=1.7` and `torchvision>=0.8`
+* Integrated Development Environment (IDE): VSCode.
 * Web Browser: Google Chrome, Microsoft Edge, Firefox, Safari.
 
 ## 🥼 Author(s) / Contributor(s)
