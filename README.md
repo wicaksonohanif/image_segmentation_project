@@ -1,14 +1,12 @@
 # 🖼️ Image Segmentation Application Using Segment Anything Model (SAM)
 
-![Alt Text](weather_type_class_thumbnail.jpg)
+![Alt Text](assets/img_seg_thumbnail.png)
 
 ## 🔎 About
 This project focuses on image segmentation using the Segment Anything Model (SAM), with points and bounding boxes as prompt encoders.
 
 Project languages:
 * en
-
-See Project [Here](https://github.com/wicaksonohanif/weather_type_classification_project/blob/main/weather_type_classification_project.ipynb)!
   
 ## 📦 Dependencies
 |  Name  |  Version  |
