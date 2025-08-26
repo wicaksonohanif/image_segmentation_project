@@ -11,13 +11,14 @@ Project languages:
 ## 📦 Dependencies
 |  Name  |  Version  |
 |--------|-----------|
-|[pandas](https://pypi.org/project/pandas/)|2.3.0|
-|[matplotlib](https://pypi.org/project/matplotlib/)|3.8.0|
-|[seaborn](https://pypi.org/project/seaborn/)|0.13.2|
-|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.4.2|
-|[missingno](https://pypi.org/project/missingno/)|0.5.2|
-|[scipy](https://pypi.org/project/scipy/)|1.15.3|
-|[joblib](https://pypi.org/project/joblib/)|1.4.2|
+|[streamlit](https://pypi.org/project/streamlit/)|1.32.2|
+|[streamlit-plotly-events](https://pypi.org/project/streamlit-plotly-events/)|0.0.6|
+|[numpy](https://pypi.org/project/numpy/)|1.26.4|
+|[opencv-python](https://pypi.org/project/opencv-python/)|4.12.0.88|
+|[pillow](https://pypi.org/project/pillow/)|10.4.0|
+|[torch](https://pypi.org/project/torch/)|2.8.0+cu126|
+|[plotly](https://pypi.org/project/plotly/)|6.3.0|
+|[segment_anything](https://pypi.org/project/segment-anything/)|1.0|
 
 ## 🖥️ Requirements
 * Operating System (OS): Windows 10, Mac, Linux.
