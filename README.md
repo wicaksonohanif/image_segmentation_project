@@ -19,6 +19,10 @@ Project languages:
 |[torch](https://pypi.org/project/torch/)|2.8.0+cu126|
 |[plotly](https://pypi.org/project/plotly/)|6.3.0|
 |[segment_anything](https://pypi.org/project/segment-anything/)|1.0|
+|[matplotlib](https://pypi.org/project/matplotlib/)|3.10.5|
+|[onnx](https://pypi.org/project/onnx/)|1.18.0|
+|[pycocotools](https://pypi.org/project/pycocotools/)|2.0.10|
+|[onnxruntime](https://pypi.org/project/onnxruntime/)|1.22.1|
 
 ## 🖥️ Requirements
 * Operating System (OS): Windows 10, Mac, Linux.
